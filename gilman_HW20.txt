@@ -1,0 +1,15 @@
+/* Project Name: Hands-On Excercises (HW20)
+Author: Kay Gilman
+Date Last Modified: 4/25/2019 */
+
+1. 
+
+#hw{float: left; background-color:#e5bd79; font-family: sans-serif; font-size: large; padding: 20px;}
+
+2.
+
+.hw h1{text-decoration-style: dotted; text-decoration: underline; color: #336699; text-decoration-color: #c3e109;}
+
+3.
+
+#hw{position: absolute; top: 20px; right: 80px; background-color: #bdbfc1; border-style: solid;}
